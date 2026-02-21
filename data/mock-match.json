@@ -1,0 +1,10 @@
+{
+  "game": "valorant",
+  "matchRef": "vlr://match/12345",
+  "teams": ["Team A", "Team B"],
+  "market": "moneyline",
+  "odds": {
+    "teamA": 1.85,
+    "teamB": 2.05
+  }
+}
